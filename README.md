@@ -1,5 +1,4 @@
 # Machine Learning Guides
-(I'll be moving this over to the Fractal Github as guides are completed)
 
 This is a repository for Fractal machine learning guides. The intention is to provide a structured learning process from beginner concepts all the way to more advanced concepts, all in one place. In this repository you can find guides about the following concepts:
 - Neural Network Introduction
